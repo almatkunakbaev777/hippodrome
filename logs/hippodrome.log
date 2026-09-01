@@ -1,0 +1,10 @@
+2026-09-01 13:09:10,664 DEBUG Horse [main] Создание Horse, имя Bucephalus, скорость 2.4
+2026-09-01 13:09:10,666 DEBUG Horse [main] Создание Horse, имя Ace of Spades, скорость 2.5
+2026-09-01 13:09:10,666 DEBUG Horse [main] Создание Horse, имя Zephyr, скорость 2.6
+2026-09-01 13:09:10,666 DEBUG Horse [main] Создание Horse, имя Blaze, скорость 2.7
+2026-09-01 13:09:10,666 DEBUG Horse [main] Создание Horse, имя Lobster, скорость 2.8
+2026-09-01 13:09:10,666 DEBUG Horse [main] Создание Horse, имя Pegasus, скорость 2.9
+2026-09-01 13:09:10,666 DEBUG Horse [main] Создание Horse, имя Cherry, скорость 3.0
+2026-09-01 13:09:10,667 DEBUG Hippodrome [main] Создание Hippodrome, лошадей 7
+2026-09-01 13:09:10,667 INFO Main [main] Начало скачек. Количество участников: 7
+2026-09-01 13:09:30,810 INFO Main [main] Окончание скачек. Победитель: Blaze
